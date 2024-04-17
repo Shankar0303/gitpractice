@@ -1,6 +1,6 @@
 ### git  Git And Github Tutorials
 
-## SHankar Rachandran
+## SHankar Ramachandran
 
 ## Git Tuto
 
